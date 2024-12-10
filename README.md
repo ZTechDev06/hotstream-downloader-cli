@@ -9,7 +9,7 @@ Hotstream Downloader CLI is a simple (hopefully) Bash script for easily download
 	•	Support for episode ranges
 
 ## Installation
-Make the script executable:
+Downlaod and make the script executable:
 
 ```bash
 chmod +x Hotstream_Downloader.sh
