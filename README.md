@@ -12,40 +12,40 @@ Hotstream Downloader CLI is a simple (hopefully) Bash script for easily download
 Make the script executable:
 
 ```bash
-chmod +x download_series.sh
+chmod +x Hotstream_Downloader.sh
 ```
 
 ## Usage
 The general command structure is:
 
 ```bash
-./download_series.sh <fileName> <ID> [<season_number>] [<episode_number>] | [<episode_number> | -<end_episode>] -f
+./Hotstream_Downloader.sh <fileName> <ID> [<season_number>] [<episode_number>] | [<episode_number> | -<end_episode>] -f
 ```
 
 ### Examples
 Download the movie Alien with ID 1234:
 ```bash
-./download_series.sh "Alien" 1234
+./Hotstream_Downloader.sh "Alien" 1234
 ```
 
 Download episode 10 of season 1 of the series X-Files with ID 51:
 ```bash
-./download_series.sh "X-Files" 51 1 10
+./Hotstream_Downloader.sh "X-Files" 51 1 10
 ```
 
 Download episodes 8 to 11 of season 3 of the series X-Files with ID 51:
 ```bash
-./download_series.sh "X-Files" 51 3 8-11
+./Hotstream_Downloader.sh "X-Files" 51 3 8-11
 ```
 
 Download all episodes of season 2 of the series X-Files with ID 51:
 ```bash
-./download_series.sh "X-Files" 51 2 -f
+./Hotstream_Downloader.sh "X-Files" 51 2 -f
 ```
 
 Download all episodes of the series X-Files with ID 51:
 ```bash
-./download_series.sh "X-Files" 51 -f
+./Hotstream_Downloader.sh "X-Files" 51 -f
 ```
 
 # Contributions
