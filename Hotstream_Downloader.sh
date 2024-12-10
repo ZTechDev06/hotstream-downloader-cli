@@ -1,4 +1,10 @@
 #!/bin/bash
+# ---------------------------------------------
+# Hotstream Downloader CLI
+# Author: Nathan
+# Date: 30/09/2024
+# Description: A simple Bash script for downloading series and movies from hotstream.at.
+# ---------------------------------------------
 
 show_help() {
   echo "Usage: $0 <fileName> <ID> [<season_number>] [<episode_number>] | [<episode_number> | -<end_episode>] -f"
