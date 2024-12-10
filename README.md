@@ -53,3 +53,10 @@ Contributions are welcome! If you want to improve this script or add new feature
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+# 🚨 Disclaimer 🚨
+This script is provided for demonstration purposes only and is intended solely for personal learning and entertainment. It is not meant for commercial use, promotion, or distribution of any copyrighted material. The author assumes no responsibility for how this script is used.
+
+If requested, I will remove the script immediately to comply with any legal or ethical concerns.
