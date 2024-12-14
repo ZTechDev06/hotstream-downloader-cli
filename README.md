@@ -1,5 +1,5 @@
 # Hotstream Downloader CLI
-Hotstream Downloader CLI is a simple (hopefully) Bash script for easily downloading series and movies from hotstream.at. It uses wget to handle the downloads.
+Hotstream Downloader CLI is a (hopefully) simple powershell script for easily downloading series and films from hotstream.at
 
 Movie Downloads: Fetch movies effortlessly by providing their unique ID.
 Series Downloads: Download specific episodes, entire seasons, or complete series.
